@@ -17,4 +17,4 @@ TypeScript / React / Vite / Canvas・WebGL2 / Cloudflare Workers / Python / AWS
 
 #### 資格
 
-AWS 認定ソリューションアーキテクト – アソシエイト
+AWS Certified Solutions Architect – Associate

@@ -15,8 +15,7 @@
 
 - **言語:** TypeScript / JavaScript / Python
 - **フロントエンド:** React / Next.js / Vite / Tailwind CSS / Canvas・WebGL2
-- **バックエンド・インフラ:** Cloudflare Workers（D1・KV・R2・Durable Objects・Cron Triggers）/ Drizzle ORM / Better Auth / Supabase / AWS
-- **外部 API:** Stripe / Meta Graph API（Instagram）/ Google Calendar API
+- **バックエンド・インフラ:** Cloudflare Workers（D1・KV・R2・Durable Objects・Cron Triggers）/ Drizzle ORM / Better Auth / Supabase / Stripe / AWS
 - **テスト・CI:** Vitest / Playwright / GitHub Actions
 
 #### 資格
